@@ -1,4 +1,4 @@
-# Hi, I'm Vansh 👋  
+# Hi, I'm Vansh 👋   ![Angular](https://img.shields.io/badge/Frontend-Angular-red)  ![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
 
 🎓 BCA Student  
 💻 Full Stack Developer (Angular + Node.js)  
@@ -32,6 +32,7 @@ A web app for exploring and managing electronic gadgets.
 ---
 
 ⭐ “Always learning, always building”
+
 
 <!--
 **vansh-01-bhajikhau/vansh-01-bhajikhau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
