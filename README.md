@@ -27,7 +27,7 @@ A web app for exploring and managing electronic gadgets.
 ## 📫 Connect with Me  
 
 - GitHub: https://github.com/vansh-01-bhajikhau  
-- Email: your-email@example.com  
+- Email: vanshbhajikhau90@gmail.com  
 
 ---
 
