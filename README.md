@@ -1,50 +1,70 @@
-# Hi, I'm Vansh 👋   ![Angular](https://img.shields.io/badge/Frontend-Angular-red)  ![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
+# Hi, I'm Vansh 👋  
+
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+Developer;Angular+%7C+Node.js+%7C+MongoDB;Building+Real+World+Projects🚀" />
+
+---
+
+## 👨‍💻 About Me  
 
 🎓 BCA Student  
 💻 Full Stack Developer (Angular + Node.js)  
 🚀 Passionate about building real-world projects  
+🌱 Currently learning advanced backend & deployment  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-- Frontend: Angular, HTML, CSS, TypeScript  
-- Backend: Node.js, Express.js  
-- Database: MongoDB  
+<p>
+  <img src="https://img.shields.io/badge/Frontend-Angular-red?style=for-the-badge&logo=angular" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Language-TypeScript-blue?style=for-the-badge&logo=typescript" />
+</p>
 
 ---
 
 ## 📌 Projects  
 
 ### 🔹 GKG Learning  
-A full-stack e-learning platform with Angular frontend and Node.js backend.  
+📚 Full-stack e-learning platform  
+⚙️ Angular + Node.js + MongoDB  
+
+---
 
 ### 🔹 Gadget Mania  
-A web app for exploring and managing electronic gadgets.  
+📱 Gadget browsing & management system  
+⚙️ Angular + Express + MongoDB  
 
 ---
 
-## 📫 Connect with Me  
+## 📊 GitHub Stats  
 
-- GitHub: https://github.com/vansh-01-bhajikhau  
-- Email: vanshbhajikhau90@gmail.com  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vansh-01-bhajikhau&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansh-01-bhajikhau&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ “Always learning, always building”
+## 🌐 Connect With Me  
 
+<p>
+  <a href="https://github.com/vansh-01-bhajikhau">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-<!--
-**vansh-01-bhajikhau/vansh-01-bhajikhau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Fun Fact  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ I love turning ideas into real-world applications  
+
+---
+
+⭐ *“Always learning, always building”*
